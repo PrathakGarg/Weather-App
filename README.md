@@ -8,9 +8,12 @@ Do you love the weather? Are you also passionate about coding? If so, then youâ€
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
+
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1nf4axLD8A8-beDD_LFgfnbE-790IO7O7/view?usp=sharing/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://cdn.dribbble.com/users/2303657/screenshots/14784828/media/facae5979ecfaf580b95111e3795256f.png)
+![App Screenshot](https://cdn.dribbble.com/users/2303657/screenshots/14784828/media/69d50ced6060bc8101917e429d03706a.png)
+
 
 
 ## Features
