@@ -10,7 +10,7 @@ Do you love the weather? Are you also passionate about coding? If so, then youâ€
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1nf4axLD8A8-beDD_LFgfnbE-790IO7O7/view?usp=sharing/468x300?text=App+Screenshot+Here)
 
 
 ## Features
