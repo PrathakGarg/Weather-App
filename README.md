@@ -8,9 +8,12 @@ Do you love the weather? Are you also passionate about coding? If so, then youâ€
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://cdn.dribbble.com/users/2303657/screenshots/14784828/media/facae5979ecfaf580b95111e3795256f.png)
+![App Screenshot](https://cdn.dribbble.com/users/2303657/screenshots/14784828/media/69d50ced6060bc8101917e429d03706a.png)
+
 
 
 ## Features
@@ -40,6 +43,7 @@ Building a weather app from scratch is a great way to put your coding skills to 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [UI Designs](https://dribbble.com/Nata_Bird)
 
 
 ## Support
